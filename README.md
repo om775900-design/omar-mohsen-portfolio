@@ -3,7 +3,9 @@
 This is a starter portfolio for an aspiring short-form video editor using Adobe Premiere Pro.
 
 ## Files
-- `index.html` — website content and project cards
+- `index.html`
+<link rel="stylesheet" href="style.css">
+— website content and project cards
 - `style.css` — design and responsive layout
 - `script.js` — updates the copyright year
 - `PRACTICE_PROJECTS.md` — three practice briefs to help you create real portfolio pieces
